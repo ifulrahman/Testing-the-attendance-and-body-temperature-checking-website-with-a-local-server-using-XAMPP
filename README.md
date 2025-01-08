@@ -27,3 +27,10 @@ In testing this website with a local server, please follow these steps.
 <br>Step 7: Import database 'db.sql' from 'cd2' folder.
 <br>Step 8: Open a browser and type 'localhost/cd2' (without quotation marks).
 <br>Step 9: The website is successfully running, please log in with the username 'admin' and password 'admin' (without quotation marks).
+
+## Note
+Use XAMPP version 7.4 or earlier versions!
+
+XAMPP 7.4 Link (recommended) :
+```bash
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
